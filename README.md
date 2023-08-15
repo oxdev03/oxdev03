@@ -1,10 +1,10 @@
 ### <div align="center">I'm oxdev, a full-stack developer 👨‍💻 developing since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [pm2.web](https://github.com/oxdev/pm2.web)  
+- 🔭 I’m currently working on [pm2.web](https://github.com/oxdev03/pm2.web)  
   
 
-- 🌱 I’m currently learning Ansible  
+- 🌱 I’m currently learning Spring Boot  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
