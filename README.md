@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [pm2.web](https://github.com/oxdev03/pm2.web)  
   
 
-- 🌱 I’m currently learning Spring Boot  
+[comment]: <> ( - 🌱 I’m currently learning ...)
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
