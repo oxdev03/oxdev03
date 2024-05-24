@@ -8,10 +8,6 @@
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use Stack Overflow over Chat Gpt  
-  
 
 <br/>  
 
